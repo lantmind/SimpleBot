@@ -2,7 +2,7 @@
     "name": "SimpleBot",
     "version": "1.0.0",
     "description": "Subscribete al canal de YT The Shadow Borkers",
-    "deprecated": false, // Error de escritura corregido: "depecrated" -> "deprecated"
+    "deprecated": false,
     "main": "index.js",
     "directories": {
         "lib": "lib",
@@ -40,7 +40,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@whiskeysockets/baileys": "^6.4.1", // Paquete oficial de Baileys
+        "@whiskeysockets/baileys": "^6.4.1",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
         "api-dylux": "^1.5.6",
